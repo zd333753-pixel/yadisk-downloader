@@ -1,0 +1,40 @@
+.venv/
+__pycache__/
+*.py[cod]
+build/
+build-*/
+dist/
+release/
+browser-runtime/
+checkpoints/
+diagnostic-stage/
+Загрузки YaDisk/
+Временные загрузки/
+Данные Яндекс Диска/
+*.spec
+settings*.json
+self-test.json
+*.log
+*.sqlite3*
+*.db*
+*.csv
+*.crdownload
+*.yd-part-*
+BrowserProfile*/
+History*
+Cookies*
+Network/
+*.png
+*.jpg
+*.jpeg
+*.heic
+*.mov
+*.mp4
+*.zip
+*.exe
+*.dll
+*.pdb
+.env
+.env.*
+*.pem
+*.key
